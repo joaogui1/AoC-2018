@@ -1,4 +1,4 @@
-'''First Challenge of the Third day of the Advent of Code'''
+'''First Challenge of the Fourth day of the Advent of Code'''
 FREQ = {}
 with open("input.txt", "r") as inp:
     for line in inp:

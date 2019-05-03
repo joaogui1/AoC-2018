@@ -1,4 +1,4 @@
-'''Second Challenge of Advent of Code'''
+'''Second Challenge of the First day of the Advent of Code'''
 FREQ = set()
 RESULT = 0
 FOUND_DUPLICATE = 0
